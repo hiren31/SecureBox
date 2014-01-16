@@ -1,0 +1,13 @@
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\SecureBoxClientNew.exe.config
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\SecureBoxClientNew.exe
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\SecureBoxClientNew.pdb
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\obj\Debug\SecureBoxClientNew.csprojResolveAssemblyReference.cache
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\obj\Debug\SecureBoxClientNew.Properties.Resources.resources
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\obj\Debug\SecureBoxClientNew.csproj.GenerateResource.Cache
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\obj\Debug\SecureBoxClientNew.exe
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\obj\Debug\SecureBoxClientNew.pdb
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\Newtonsoft.Json.dll
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\System.Net.Http.Formatting.dll
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\Newtonsoft.Json.xml
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\bin\Debug\System.Net.Http.Formatting.xml
+E:\ISISPL\SecureBox\Application\SecureBoxClientNew\SecureBoxClientNew\obj\Debug\SecureBoxClientNew.Form1.resources
